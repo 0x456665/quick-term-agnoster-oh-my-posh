@@ -45,7 +45,7 @@
             "style": "agnoster",
             "max_depth": 3,
             "folder_icon": "\uf115",
-            "folder_separator_icon": " <transparent>\ue0b1</> ",
+            "folder_separator_icon": " \ue0b1 "
             "home_icon": "\ueb06"
           },
           "style": "powerline",
